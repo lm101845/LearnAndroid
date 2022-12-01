@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../dev/gradle-3.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/chapter03" />
+            <option value="$PROJECT_DIR$/chapter04" />
+            <option value="$PROJECT_DIR$/chapter05" />
+            <option value="$PROJECT_DIR$/chapter06" />
+            <option value="$PROJECT_DIR$/chapter07-client" />
+            <option value="$PROJECT_DIR$/chapter07-server" />
+            <option value="$PROJECT_DIR$/chapter08" />
+            <option value="$PROJECT_DIR$/chapter09" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

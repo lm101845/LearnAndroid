@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chapter07-client</string>
+    <string name="file_provider">com.dongnaoedu.chapter07_client.fileProvider</string>
+</resources>
