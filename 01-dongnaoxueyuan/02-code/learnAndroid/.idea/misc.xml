@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/app/src/main/res/layout/activity_main.xml" value="0.12588652482269502" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.199" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.199" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/app/src/main/res/layout/activity_main2.xml" value="0.20606884057971014" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/app/src/main/res/layout/activity_main3.xml" value="0.20606884057971014" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.199" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/chapter03/src/main/res/layout/activity_main.xml" value="0.20606884057971014" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/chapter03/src/main/res/layout/activity_text_color.xml" value="0.20606884057971014" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/chapter03/src/main/res/layout/activity_text_size.xml" value="0.2171875" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/chapter03/src/main/res/layout/activity_text_view.xml" value="0.2947916666666667" />
+        <entry key="..\:/01-code/54-LearnAndroid/LearnAndroid/01-dongnaoxueyuan/02-code/learnAndroid/chapter03/src/main/res/layout/activity_view_border.xml" value="0.1984375" />
       </map>
     </option>
   </component>
